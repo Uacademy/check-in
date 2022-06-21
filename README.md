@@ -10,3 +10,5 @@ Just try your first PR (pull request)
 
 Привіт, мене звати Богда
 Привет)) Я
+
+не Богдан
